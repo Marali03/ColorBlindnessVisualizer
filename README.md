@@ -29,7 +29,7 @@ This project demonstrates a simple application to simulate various types of colo
 
     ```bash
     git clone https://github.com/Marali03/ColorBlindnessVisualizer.git
-    cd color-blindness-simulation
+    cd ColorBlindnessVisualizer
     ```
 
 2. **Install Required Packages**:
