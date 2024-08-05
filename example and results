@@ -1,1 +1,14 @@
+## Example Images
 
+### Original Images
+
+![Image ]("C:\Users\Marali\jupyter_pandas\simulated_image.jpg")
+
+
+### Simulated Images
+
+![Simulated Image protanopia]("C:\Users\Marali\jupyter_pandas\simulated_protanopia.jpg")
+
+![Simulated Image deuteranopia]("C:\Users\Marali\jupyter_pandas\simulated_deuteranopia.jpg")
+
+![Simulated Image tritanopia]("C:\Users\Marali\jupyter_pandas\simulated_tritanopia.jpg")
